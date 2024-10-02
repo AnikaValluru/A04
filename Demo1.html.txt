@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <header>
+  </header>
+
+  <body>
+    <h1>My first webpage </h1>
+    <p>User Name: arv33- Anika Valluru </p>
+    <p>Course Number/Section: IS117-003 </p>
+    <p> Course Name: Intro to web development </p>
+    <p>Copyright Anika Valluru, Oct 15, 2024 Privacy Statement | Terms of Service </p>
+
+  </body>
+
+</html>
